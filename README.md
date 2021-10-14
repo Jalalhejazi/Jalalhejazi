@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on [DevOps Automation and Class-room Training][AZ0400]
-- 2021 Goals: Automation as much as I can
+- I'm currently working on DevOps Automation and Cloud Optimization
+- 2022 Goals: Automation as much as I can
 
 
 ### Connect with me: 
