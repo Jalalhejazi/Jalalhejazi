@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 - 2021 Goals: Automation as much as I can
 
 
-### Connect with me:
-
-<a href="https://discord.gg/devops2021#7156">
-  <img align="left" alt="Jalal's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
+### Connect with me: 
 
 [<img align="left" alt="Jalalhejazi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
