@@ -14,8 +14,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build
-      run: cargo run
     - run: |
         git config user.name jalalhejazi
         git config user.email jalalhejazi@gmail.com
