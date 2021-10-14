@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - I'm currently working on DevOps Automation and Cloud Optimization
 - 2022 Goals: Automation as much as I can
 
+![](prompt.png)
+
 
 ### Connect with me: 
 
