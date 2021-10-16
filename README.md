@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on DevOps Automation and Cloud Optimization
+- I'm currently working on DevOps Automation and (Cloud Agnostic)
 - 2022 Goals: Automation as much as I can
 
 ![](prompt.png)
