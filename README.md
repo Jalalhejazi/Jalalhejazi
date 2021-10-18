@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡  I'm currently working on DevOps Automation
 - 🤔 2022 Goals: Automation as much as I can
 
--  🌱 [My Github CodeSpace](https://github.com/codespaces)
--  🔭 [My Github Dev](https://github.dev)
+-  🌱 [My https://github.com/codespaces](https://github.com/codespaces)
+-  🔭 [My https://github.dev](https://github.dev)
 
 
 ![](prompt.png)
