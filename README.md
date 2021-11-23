@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡  I'm currently working on DevOps Automation
+- ⚡  I'm currently working on DevOps Automation 🚀
 - 🤔 2022 Goals: Automation as much as I can
 
 -  🌱 [My https://github.com/codespaces](https://github.com/codespaces)
