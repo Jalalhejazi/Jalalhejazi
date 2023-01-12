@@ -14,25 +14,14 @@ Here are some ideas to get you started:
 -->
 
 - ⚡  I'm currently working on DevOps Automation 🚀
-- 🤔 2022 Goals: Automation as much as I can
 
--  🌱 [My https://github.com/codespaces](https://github.com/codespaces)
-
-
--  👯 [Anybody Free Access to https://github.dev](https://github.dev)
 
 
 ![](prompt.png)
 
 
-### Connect with me: 
-
-[<img align="left" alt="Jalalhejazi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 <hr>
 
-![Jalal's GitHub status](https://github-readme-stats.vercel.app/api?username=Jalalhejazi&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Jalal%27s%20GitHub%20stats)
 
 ### Languages and Tools:
 
@@ -47,6 +36,3 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
-
-[linkedin]: https://linkedin.com/in/hejazi
