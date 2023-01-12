@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡  I'm currently working on DevOps Automation 🚀
+- ⚡  I'm currently working at https://www.demant.com/about/purpose-and-strategy 🚀
 
 
 
