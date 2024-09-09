@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡  I'm currently working at https://www.demant.com/about/purpose-and-strategy 🚀
-
-
+- ⚡  I'm currently working at DEMANT Enterprise also known as Oticon 🚀
 
 ![](prompt.png)
 
