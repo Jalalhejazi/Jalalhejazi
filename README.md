@@ -1,7 +1,8 @@
-### Hi there, I'm Jalal
+### Hi  
 
 ⚡ I am driven by a curiosity for technology and a love for learning by doing.
-⚡  I'm currently working at DEMANT/Oticon 🚀
+
+⚡  currently working at DEMANT/Oticon 🚀
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jalalhejazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
