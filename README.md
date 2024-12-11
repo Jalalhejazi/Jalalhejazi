@@ -1,8 +1,6 @@
 # 🐝🐝🐝  
 
-⚡ I am driven by a curiosity for technology and a love for learning by doing.
-
-⚡  currently working at DEMANT/Oticon 🚀
+⚡ I am driven by a curiosity for technology and a love for learning by doing 🚀
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jalalhejazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
