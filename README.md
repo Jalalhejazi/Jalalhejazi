@@ -7,8 +7,11 @@
 
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,js,bash,docker,git,azure,mongodb,linux,windows,net,vscode,html,css)](https://skillicons.dev)
-
-
-<hr>
+<br/>
+<hr/>
+<div align="left">
+  <h3> 🐍Contributions :</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Jalalhejazi/Jalalhejazi/blob/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
