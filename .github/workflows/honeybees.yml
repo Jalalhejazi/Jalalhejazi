@@ -1,4 +1,4 @@
-name: website
+name: honeybees
 
 on: push
 
@@ -32,7 +32,8 @@ jobs:
                 working together seamlessly for the success of the hive. 
                 Not only do they value every individual’s contribution, 
                 but they also never lose sight of the greater good. 
-                In other words, honeybees know how to lift each other up while keeping the entire community thriving—and 
+                In other words, honeybees know how to lift each other up 
+                while keeping the entire community thriving—and 
                 we can learn a lot from that. 
               </pre>
 
