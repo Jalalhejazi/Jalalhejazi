@@ -2,6 +2,9 @@
 
 ⚡ I am driven by a curiosity for technology and a love for learning by doing 🚀
 
+⚡  <a href="https://jalalhejazi.github.io/Jalalhejazi/">10 Things that Inspire me: 🐝</a>
+ 
+<br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jalalhejazi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
