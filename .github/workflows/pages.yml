@@ -13,22 +13,50 @@ jobs:
         name: Checkout
         uses: actions/checkout@v4
       -
-        name: Gen dummy page
+        name: Generate public/index.html
         run: |
           mkdir public
           cat > public/index.html <<EOL
           <!doctype html>
           <html>
             <head>
-              <title>GitHub Pages deployed!</title>
+              <title> 🐝 </title>
             </head>
             <body>
               <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
+              
+              <p>Believe it or not, 🐝🐝🐝 honeybees have a lot to teach us about life: </p>
+              
+              <pre>  
+                These remarkable insects are the ultimate team players, 
+                working together seamlessly for the success of the hive. 
+                Not only do they value every individual’s contribution, 
+                but they also never lose sight of the greater good. 
+                In other words, honeybees know how to lift each other up while keeping the entire community thriving—and 
+                we can learn a lot from that. 
+              </pre>
+
+
+              <ol>
+                <li><strong>Shared Purpose:</strong> Honeybees work together with a clear collective goal—nurturing the hive. This reminds us that when groups unite behind a shared vision, their combined efforts become more impactful.</li>
+                <li><strong>Respect for Individual Roles:</strong> Every bee has a specific job, from gathering pollen to guarding the hive. Recognizing and appreciating each person’s unique contributions can strengthen a team’s overall performance.</li>
+                <li><strong>Open Communication:</strong> Bees use pheromones and dances to share information about food sources. In human teams, transparent and consistent communication ensures everyone stays informed and aligned.</li>
+                <li><strong>Adaptability:</strong> When resources change or weather turns harsh, bees quickly adjust their tasks. Remaining flexible and open to new approaches helps teams navigate unexpected challenges.</li>
+                <li><strong>Efficiency in Effort:</strong> Honeybees never waste energy—they streamline their work to maximize productivity. Human teams can benefit from minimizing busywork and focusing on what truly matters.</li>
+                <li><strong>Empathy for the Collective:</strong> Bees maintain a healthy hive environment, attending to each other’s needs. Fostering a supportive atmosphere encourages team members to help one another and grow together.</li>
+                <li><strong>Constant Learning:</strong> Worker bees continually explore new areas and strategies to find better resources. Embracing a culture of learning and improvement keeps teams adaptable and innovative.</li>
+                <li><strong>Trust in the System:</strong> Each bee trusts its fellow workers to fulfill their roles. When team members have faith in each other’s reliability, it builds confidence and synergy.</li>
+                <li><strong>Resilience Under Pressure:</strong> Hives persevere despite predators, weather changes, and scarce resources. Teams that cultivate resilience can recover quickly from setbacks and maintain forward momentum.</li>
+                <li><strong>Focus on the Greater Good:</strong> Honeybees always prioritize the hive’s well-being. Remembering that long-term success often comes from working in the interest of the whole team can guide us toward more meaningful, sustainable collaboration.</li>
+              </ol>
+
+
+
             </body>
           </html>
           EOL
       -
-        name: Deploy to GitHub Pages
+        name: Deploy 🐝 
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
