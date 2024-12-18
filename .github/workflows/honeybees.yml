@@ -20,13 +20,116 @@ jobs:
           <!doctype html>
           <html>
             <head>
-              <title> 🐝 </title>
+              <title> 🐝 Insights from Honeybees </title>
+              <style>
+                /* General Reset */
+                * {
+                  margin: 0;
+                  padding: 0;
+                  box-sizing: border-box;
+                }
+
+                body {
+                  font-family: Arial, sans-serif;
+                  line-height: 1.6;
+                  background-color: #fefbe9;
+                  color: #333;
+                  padding: 20px;
+                }
+
+                header {
+                  background-color: #f7c948;
+                  padding: 20px;
+                  text-align: center;
+                  border-radius: 8px;
+                  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+
+                header h1 {
+                  font-size: 2.5rem;
+                  color: #fff;
+                  margin: 0;
+                }
+
+                p {
+                  margin-bottom: 20px;
+                }
+
+                pre {
+                  background-color: #fff3cd;
+                  padding: 20px;
+                  border-left: 4px solid #f7c948;
+                  border-radius: 4px;
+                  font-family: "Courier New", Courier, monospace;
+                  white-space: pre-wrap;
+                }
+
+                ol {
+                  list-style: decimal inside;
+                  margin-left: 20px;
+                  padding: 0;
+                }
+
+                ol li {
+                  margin-bottom: 15px;
+                  background: #fff;
+                  padding: 10px 15px;
+                  border: 1px solid #e2e2e2;
+                  border-radius: 4px;
+                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+                  transition: transform 0.2s ease-in-out;
+                }
+
+                ol li:hover {
+                  transform: translateY(-5px);
+                }
+
+                a {
+                  color: #f7c948;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+
+                a:hover {
+                  text-decoration: underline;
+                }
+
+                footer {
+                  margin-top: 30px;
+                  text-align: center;
+                  font-size: 0.9rem;
+                  color: #666;
+                }
+
+                @media (max-width: 768px) {
+                  body {
+                    padding: 10px;
+                  }
+
+                  header h1 {
+                    font-size: 2rem;
+                  }
+
+                  ol li {
+                    font-size: 0.9rem;
+                  }
+                }
+              </style>
             </head>
             <body>
-              <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
-              
-              <p>Believe it or not, 🐝🐝🐝 honeybees have a lot to teach us about life: </p>
-              
+              <header>
+                <h1>Life Lessons from Honeybees 🐝</h1>
+              </header>
+
+              <p>
+                GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through 
+                <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.
+              </p>
+
+              <p>
+                Believe it or not, 🐝🐝🐝 honeybees have a lot to teach us about life:
+              </p>
+
               <pre>  
                 These remarkable insects are the ultimate team players, 
                 working together seamlessly for the success of the hive. 
@@ -34,9 +137,8 @@ jobs:
                 but they also never lose sight of the greater good. 
                 In other words, honeybees know how to lift each other up 
                 while keeping the entire community thriving—and 
-                we can learn a lot from that. 
+                we can learn a lot from that.
               </pre>
-
 
               <ol>
                 <li><strong>Shared Purpose:</strong> Honeybees work together with a clear collective goal—nurturing the hive. This reminds us that when groups unite behind a shared vision, their combined efforts become more impactful.</li>
@@ -51,10 +153,12 @@ jobs:
                 <li><strong>Focus on the Greater Good:</strong> Honeybees always prioritize the hive’s well-being. Remembering that long-term success often comes from working in the interest of the whole team can guide us toward more meaningful, sustainable collaboration.</li>
               </ol>
 
-
-
+              <footer>
+                <p>&copy; 2024 Honeybee Insights. All Rights Reserved.</p>
+              </footer>
             </body>
           </html>
+
           EOL
       -
         name: Deploy 🐝 
