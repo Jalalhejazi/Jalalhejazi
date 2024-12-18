@@ -20,7 +20,7 @@ jobs:
           <!doctype html>
           <html>
             <head>
-              <title> 🐝 Insights from Honeybees </title>
+              <title>🐝 10 Life Lessons</title>
               <style>
                 /* General Reset */
                 * {
@@ -120,12 +120,6 @@ jobs:
               <header>
                 <h1> 10 Life Lessons from Honeybees 🐝 </h1>
               </header>
-
-              <p>
-                GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through 
-                <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.
-              </p>
-
               <p>
                 Believe it or not, 🐝🐝🐝 honeybees have a lot to teach us about life:
               </p>
@@ -154,7 +148,7 @@ jobs:
               </ol>
 
               <footer>
-                <p>&copy; 2024 Honeybee Insights. All Rights Reserved.</p>
+                GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed. 
               </footer>
             </body>
           </html>
